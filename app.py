@@ -9,3 +9,5 @@ ys = yt.streams.get_highest_resolution()
 print("Wait.......")
 ys.download()
 print('Completed')
+
+# Add virtual settings
